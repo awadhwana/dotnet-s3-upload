@@ -1,0 +1,16 @@
+/Users/ankit/Projects/s3Uploader/s3Uploader/bin/Debug/netcoreapp3.1/s3Uploader.deps.json
+/Users/ankit/Projects/s3Uploader/s3Uploader/bin/Debug/netcoreapp3.1/s3Uploader.runtimeconfig.json
+/Users/ankit/Projects/s3Uploader/s3Uploader/bin/Debug/netcoreapp3.1/s3Uploader.runtimeconfig.dev.json
+/Users/ankit/Projects/s3Uploader/s3Uploader/bin/Debug/netcoreapp3.1/s3Uploader.dll
+/Users/ankit/Projects/s3Uploader/s3Uploader/bin/Debug/netcoreapp3.1/s3Uploader.pdb
+/Users/ankit/Projects/s3Uploader/s3Uploader/bin/Debug/netcoreapp3.1/AWSSDK.Core.dll
+/Users/ankit/Projects/s3Uploader/s3Uploader/bin/Debug/netcoreapp3.1/AWSSDK.S3.dll
+/Users/ankit/Projects/s3Uploader/s3Uploader/obj/Debug/netcoreapp3.1/s3Uploader.csproj.AssemblyReference.cache
+/Users/ankit/Projects/s3Uploader/s3Uploader/obj/Debug/netcoreapp3.1/s3Uploader.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ankit/Projects/s3Uploader/s3Uploader/obj/Debug/netcoreapp3.1/s3Uploader.AssemblyInfoInputs.cache
+/Users/ankit/Projects/s3Uploader/s3Uploader/obj/Debug/netcoreapp3.1/s3Uploader.AssemblyInfo.cs
+/Users/ankit/Projects/s3Uploader/s3Uploader/obj/Debug/netcoreapp3.1/s3Uploader.csproj.CoreCompileInputs.cache
+/Users/ankit/Projects/s3Uploader/s3Uploader/obj/Debug/netcoreapp3.1/s3Uploader.csproj.CopyComplete
+/Users/ankit/Projects/s3Uploader/s3Uploader/obj/Debug/netcoreapp3.1/s3Uploader.dll
+/Users/ankit/Projects/s3Uploader/s3Uploader/obj/Debug/netcoreapp3.1/s3Uploader.pdb
+/Users/ankit/Projects/s3Uploader/s3Uploader/obj/Debug/netcoreapp3.1/s3Uploader.genruntimeconfig.cache

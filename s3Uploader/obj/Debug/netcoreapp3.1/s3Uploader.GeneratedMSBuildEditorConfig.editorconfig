@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = s3Uploader
+build_property.ProjectDir = /Users/ankit/Projects/s3Uploader/s3Uploader/

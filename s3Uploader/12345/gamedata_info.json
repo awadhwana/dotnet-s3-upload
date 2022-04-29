@@ -1,0 +1,92 @@
+﻿{
+  "classDefID": "27746",
+  "generatedID": "Reptile Green-Normal Black-Aviators - Gold-Highlighter-Lightning-Black Eye-Necktie-Sad-Pirate Hat-Magenta",
+  "customID": "",
+  "generatedIndex": 0,
+  "attributes": [
+    {
+      "attributeID": "Eye Pupils",
+      "valueID": "Reptile Green"
+    },
+    {
+      "attributeID": "Eye Shapes",
+      "valueID": "Normal Black"
+    },
+    {
+      "attributeID": "Glasses",
+      "valueID": "Aviators - Gold"
+    },
+    {
+      "attributeID": "Body Color",
+      "valueID": "Highlighter"
+    },
+    {
+      "attributeID": "Tattoo",
+      "valueID": "Lightning"
+    },
+    {
+      "attributeID": "Facial Feature",
+      "valueID": "Black Eye"
+    },
+    {
+      "attributeID": "Theme",
+      "valueID": "Necktie"
+    },
+    {
+      "attributeID": "Mood",
+      "valueID": "Sad"
+    },
+    {
+      "attributeID": "Head Item",
+      "valueID": "Pirate Hat"
+    },
+    {
+      "attributeID": "Background",
+      "valueID": "Magenta"
+    }
+  ],
+  "gameOnlySettings": {
+    "scaleGroups": [
+      {
+        "scaleGroupDefID": "698",
+        "scale": 0.5
+      },
+      {
+        "scaleGroupDefID": "699",
+        "scale": 0.5
+      },
+      {
+        "scaleGroupDefID": "700",
+        "scale": 0.5
+      },
+      {
+        "scaleGroupDefID": "701",
+        "scale": 0.5
+      },
+      {
+        "scaleGroupDefID": "702",
+        "scale": 0.5
+      },
+      {
+        "scaleGroupDefID": "704",
+        "scale": 0.5
+      },
+      {
+        "scaleGroupDefID": "709",
+        "scale": 0.5
+      },
+      {
+        "scaleGroupDefID": "710",
+        "scale": 0.5
+      },
+      {
+        "scaleGroupDefID": "711",
+        "scale": 0.5
+      },
+      {
+        "scaleGroupDefID": "3130",
+        "scale": 0.5
+      }
+    ]
+  }
+}

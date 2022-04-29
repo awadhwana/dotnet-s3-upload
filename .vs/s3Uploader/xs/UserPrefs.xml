@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{D8023DE1-F9EE-464C-9A47-A70400F5E6DA}|Default">
+  <MonoDevelop.Ide.ItemProperties.s3Uploader PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="s3Uploader/AwsUploader.cs">
+    <Files>
+      <File FileName="s3Uploader/LocalUploader.cs" Line="1" Column="1" />
+      <File FileName="s3Uploader/AwsUploader.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="s3Uploader" expanded="True">
+            <Node name="s3Uploader" expanded="True">
+              <Node name="assets" expanded="True" />
+              <Node name="AwsUploader.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
